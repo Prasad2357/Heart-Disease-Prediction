@@ -64,6 +64,4 @@ To run the code, follow the installation steps in the notebook or refer to the [
 
 If you would like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
