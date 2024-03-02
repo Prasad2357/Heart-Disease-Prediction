@@ -48,20 +48,7 @@ Explore some visualizations related to the dataset and model performance:
 
 ![scatter_plot](https://github.com/Prasad2357/Heart-Disease-Prediction/blob/main/Graphs/heart_disease_in_function_of_age_and_max_heart_rate.png)
 
-Feel free to customize the visualizations based on your preferences and add more graphs to enhance the documentation.
 
-## Code
 
-The code for this project is organized into Python scripts. You can find the implementation details in the following files:
-
-- `train.py`: Script for training the machine learning models.
-- `evaluate.py`: Script for evaluating the trained models.
-- `notebook.ipynb`: Jupyter notebook containing the exploratory data analysis and model building.
-
-To run the code, follow the installation steps in the notebook or refer to the [Usage](#usage) section in the README.
-
-## Contributing
-
-If you would like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
 
 
